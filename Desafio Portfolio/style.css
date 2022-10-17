@@ -199,6 +199,7 @@ h3 {
     flex: 1;
     gap: 32px;
     background-color: var(--bg-cards);
+    border-radius: 20px;
 }
 
 .project-container-title {
